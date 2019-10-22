@@ -1,3 +1,8 @@
+/*this method is used to calculate the factorial of large numbers and the max size we are using to calculate the value is 500
+and so we can use this code to calculate the factorial of large numbers for which we get integer overflows due to the large 
+size.
+*/
+
 #define MAX 500
 int res[MAX];
 
